@@ -1,5 +1,5 @@
 # dscience-ml-e-mundial-de-1951
-Cria um dataset com resultado simulado de uma pesquisa com fãs de futebol, sobre o mundial do Palmeiras.
+Cria um dataset com resultado simulado de uma pesquisa, com fãs de futebol, sobre o mundial do Palmeiras.
 
 ## <center>Simulação do resultado de uma pesquisa sobre o título de Capeão do Mundo em 1951 pelo time do Palmeiras</center>
 #### Desde 2014 quando a FIFA declarou oficialmente o Palmeiras como Campeão Mundial em 1951, esta discussão só cresceu no Brasil, no meio dos fâs do futebol.
