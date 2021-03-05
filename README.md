@@ -1,4 +1,4 @@
-# dscience-ml-e-mundial-de-1951
+# Data Science, Machine Learning e o Mundial de 1951
 Cria um dataset com resultado simulado de uma pesquisa, com fãs de futebol, sobre o mundial do Palmeiras.
 
 ## <center>Simulação do resultado de uma pesquisa sobre o título de Capeão do Mundo em 1951 pelo time do Palmeiras</center>
