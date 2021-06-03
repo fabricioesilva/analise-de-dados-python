@@ -1,5 +1,5 @@
 # Data Science, Machine Learning e o Mundial de 1951
-Desenvolvo um algorítmo que cria um dataset com resultado simulado de uma pesquisa, com fãs de futebol, sobre o mundial do Palmeiras. Após a criação do dataset, faço a analise dos dados gerados(mais de 80 mil linhas de "respostas"), com o objetivo de demonstrar que o algorítmo foi capaz de gerar respostas que variam de acordo com as características intencionalmente selecionadas, quais sejam: clube de coração, idade, sexo, e o tempo em que se deu a "resposta". 
+Desenvolvo um algorítmo que cria um dataset com resultado simulado de uma pesquisa, com fãs de futebol, sobre o mundial do Palmeiras. Após a criação do dataset, faço a analise dos dados gerados(mais de 80 mil linhas de "respostas"), com o objetivo de demonstrar que o algorítmo foi capaz de gerar respostas que variem de acordo com características (dos supostos votantes) intencionalmente selecionadas, quais sejam: clube de coração, idade, sexo, e o tempo em que se deu a "resposta". 
 
 ## <center>Simulação do resultado de uma pesquisa sobre o título de Capeão do Mundo em 1951 pelo time do Palmeiras</center>
 #### Desde 2014 quando a FIFA declarou oficialmente o Palmeiras como Campeão Mundial em 1951, esta discussão só cresceu no Brasil, no meio dos fâs do futebol.
