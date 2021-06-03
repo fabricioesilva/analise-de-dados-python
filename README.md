@@ -26,6 +26,6 @@ Arquivos/Files:
   - o dataset que foi criado pelo modelo.
   - the dataset itself, created by the model.
 
-3. mlearning_mundial51.ipynb
+3. mlearning_mundial51.ipynb (em outro repositório: ensaio-em-machine-learning)
   - arquivo com a exploração de algorítimos de machine learning aplicado sobre o dataset mundial51
   - file containing algorithms of machine learning applyied over the mundial51 dataset
